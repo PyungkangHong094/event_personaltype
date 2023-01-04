@@ -76,7 +76,7 @@ export const questions = [
   },
   {
     number: '10',
-    question: "I can't wait to get up for work in the morning, it's something I LOVE!"',
+    question: "I can't wait to get up for work in the morning, it's something I LOVE!",
     choices: [
       { text: 'Yes!', value: '' },
       { text: 'No...', value: '' }
