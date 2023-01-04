@@ -4,7 +4,7 @@ export const questions = [
   // 중가로는 객체 데이터이다 배열데이터 안에 객체 데이터안에 속성들이 있다.
   {
     number: '01',
-    question: '곧 크리스마스! 회사에서 크리스마스 파티 스텝을 모집한다는데?',
+    question: 'asfa21131111sf',
     choices: [
       { text: '파티 스텝은 못하지ㅎ...<br>(그래도 파티는 재밌겠다 히히)', value: 'i' },
       { text: '재밌겠다!<br>○○한테 같이 지원하자고 해야지~', value: 'e' }
