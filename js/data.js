@@ -4,10 +4,10 @@ export const questions = [
   // 중가로는 객체 데이터이다 배열데이터 안에 객체 데이터안에 속성들이 있다.
   {
     number: '01',
-    question: 'asfa21131111sf',
+    question: 'If you won 1 million dollars today, what would you do with the money?',
     choices: [
-      { text: '파티 스텝은 못하지ㅎ...<br>(그래도 파티는 재밌겠다 히히)', value: 'i' },
-      { text: '재밌겠다!<br>○○한테 같이 지원하자고 해야지~', value: 'e' }
+      { text: "I can't wait to spend it all and take my loved ones on their dream vacation!", value: 'i' },
+      { text: "What a blessing! This will help me buy the newest tech for my business!", value: 'e' }
     ]
   },
   {
